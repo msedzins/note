@@ -5,7 +5,7 @@ Actor Receiver
 Issuer -> Issuer: Create the note
 Issuer -> Receiver: Hand over the note
 Receiver -> Receiver: Make yourself familiar with the note
-Receiver -> Issuer: Acknowlege receipt of the note  
+Receiver -> Issuer: Acknowledge receipt of the note  
 note right 
 Step currently not implemented
 end note
